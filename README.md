@@ -7,3 +7,6 @@ This repository contains the Blockly-based code for the DOBOT MG400 robot, devel
 <!-- BEGIN YOUTUBE-CARDS -->
 [![we won 2. place for best technical implementation at Hackbay Nürnberg 2025 Team: Hitch Hackers 42](https://ytcards.demolab.com/?id=xn883OZ2k2w&title=we+won+2.+place+for+best+technical+implementation+at+Hackbay+Nürnberg+2025+Team:+Hitch+Hackers+42&lang=en&timestamp=1749254400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=850&border_radius=5&duration=234 "we won 2. place for best technical implementation at Hackbay Nürnberg 2025 Team: Hitch Hackers 42")](https://youtu.be/xn883OZ2k2w?si=Yyj3_Y_wLLiQ-5B2)
 <!-- END YOUTUBE-CARDS -->
+
+## 🏆 LinkedIn post: I participated on HACKBAY 2025 in Nürnberg
+[![VDI Hackathon Win](https://github.com/user-attachments/assets/f0cf46bf-bd56-4448-b18e-892cc5cb876c)](https://www.linkedin.com/posts/linda-lacsivy-a75875304_we-won-2-place-for-best-technical-implementation-activity-7337115903739813888-KFlt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE25_rkBOlSPf_2k1yNINNHphbCh4DCUxZc)
